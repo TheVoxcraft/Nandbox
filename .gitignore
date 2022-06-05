@@ -1,9 +1,3 @@
-.gradle/*
-.idea/*
-build/*
-.DS_Store
-
-
 # Compiled class file
 *.class
 
